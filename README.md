@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Personal portfolio](tusherdev.com)
+- 🔭 I’m currently working on [Personal portfolio](http://tusherdev.com/)
 
 - 🌱 I’m currently learning **C# language**
 
-- 👨‍💻 All of my projects are available at [tusherdev.com](tusherdev.com)
+- 👨‍💻 All of my projects are available at [tusherdev.com](http://tusherdev.com/)
 
 - 💬 Ask me about **php, laravel**
 

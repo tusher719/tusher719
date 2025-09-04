@@ -107,9 +107,9 @@ jobs:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tusher719/tusher719/output-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusher719/tusher719/output-3d-contrib/profile-green-animate.svg" />
-    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/tusher719/tusher719/output-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tusher719/Unity-2D/output-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusher719/WalletApp-in-React/output-3d-contrib/profile-green-animate.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/tusher719/Multi_Auth_E-Commerce/output-3d-contrib/profile-green-animate.svg" />
   </picture>
 </p>
 

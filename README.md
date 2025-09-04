@@ -35,5 +35,52 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusher719&" alt="tusher719" /></p>
 
 
+[
+    {
+        "type": "normal",
+        "fileName": "day.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#00000f",
+        "strongColor": "#111133",
+        "weakColor": "gray",
+        "radarColor": "#47a042",
+        "growingAnimation": true,
+        "contribColors": [
+            "#efefef",
+            "#d8e887",
+            "#8cc569",
+            "#47a042",
+            "#1d6a23"
+        ]
+    },
+    {
+        "type": "rainbow",
+        "fileName": "night.svg",
+        "backgroundColor": "#00000f",
+        "foregroundColor": "#eeeeff",
+        "strongColor": "rgb(255,200,55)",
+        "weakColor": "#aaaaaa",
+        "radarColor": "rgb(255,200,55)",
+        "growingAnimation": true,
+        "saturation": "50%",
+        "contribLightness": [
+            "20%",
+            "30%",
+            "35%",
+            "40%",
+            "50%"
+        ],
+        "duration": "10s",
+        "hueRatio": -7
+    }
+]
 
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tusher719/MCTian/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 

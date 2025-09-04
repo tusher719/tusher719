@@ -95,7 +95,8 @@ jobs:
 
 ### My GitHub 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![My GitHub 3D Contribution Chart](https://raw.githubusercontent.com/tusher/tusher/output-3d-contrib/profile-green-animate.svg)
+
 
 
 

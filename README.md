@@ -1,37 +1,103 @@
-[![Tusherdev](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)](https://tusherdev.com)
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Tusher</h1>
-<h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="320" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+<!--
+  Mehedi Hasan Tusher — GitHub Profile README
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusher719&label=Profile%20views&color=0e75b6&style=flat" alt="tusher719" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusher719" alt="tusher719" /></a> </p>
+<a href="https://tusherdev.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Tusher+%F0%9F%91%8B;Full-Stack+Web+Developer;Unity+3D+Game+Developer;Building+things+from+Bangladesh" alt="Typing SVG" />
+</a>
+
 <br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tusher719/tusher719/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusher719/tusher719/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tusher719/tusher719/output/github-snake.svg" />
+</picture>
 
-- 🔭 I’m currently working on [Personal portfolio](http://tusherdev.com/)
+</div>
 
-- 🌱 I’m currently learning **C# language**
+---
 
-- 👨‍💻 All of my projects are available at [tusherdev.com](http://tusherdev.com/)
+<img align="right" alt="coding" width="320" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 💬 Ask me about **php, laravel**
+### About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/user:16372660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16372660" height="30" width="40" /></a>
-<a href="https://fb.com/tusher.t19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusher.t19" height="30" width="40" /></a>
-<a href="https://instagram.com/tusher.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusher.19" height="30" width="40" /></a>
+I'm a full-stack developer from Bangladesh. I build web applications with **Laravel + React/TypeScript** and games with **Unity 3D**. I care about clean architecture, readable code, and shipping things that actually work.
+
+- 🔭 Currently working on [Personal Portfolio](http://tusherdev.com/)
+- 🌱 Deepening my knowledge in **C# & Unity game systems**
+- 💬 Ask me about **PHP, Laravel, React, game dev**
+- 📫 Find me at [tusherdev.com](http://tusherdev.com/)
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Game Dev & 3D**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Mixamo](https://img.shields.io/badge/Mixamo-FF6B35?style=flat-square&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tusher719&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusher719&layout=compact&theme=default&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusher719&theme=default&hide_border=true" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/4A90E2/tusher719" alt="tusher719's Github chart" />
+
+</div>
+
+---
+
+### Connect
+
+<p>
+  <a href="https://fb.com/tusher.t19"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/tusher.19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/16372660"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://tusherdev.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusher719&show_icons=true&locale=en&layout=compact" alt="tusher719" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusher719&show_icons=true&locale=en" alt="tusher719" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusher719&" alt="tusher719" /></p>
-
-
+<img src="https://komarev.com/ghpvc/?username=tusher719&label=Profile+views&color=4A90E2&style=flat-square" alt="tusher719" />
